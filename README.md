@@ -4,6 +4,20 @@
 
 In _Picturing Quantum Processes_ the authors place their work as an attempt to understand quantum theory using pictures and processes instead of symbols and states. I'm intrigued. But I perhaps don't have the liberty of neglecting "symbols and states" since I'm up to my ears in conceptual debt. While under COVID-19 quarantine I'd like to set to work studying from both perspectives at once.
 
+## Plan
+
+```
+   symbols and states                        mathematical machinery                  pictures and processes
+   ------------------                        ----------------------                  ----------------------
+
+   _Mathematical Logic_ Tourlakis       _Graph Theory and its Applications_         _Picturing Quantum Processes_
+
+          ↓                                                                                      ↓
+
+   _Theory of Sets_ Bourbaki                                                        _New Structures for Physics_
+
+```
+
 ## Symbols and States
 
 _Mathematical Logic_ G. Tourlakis
@@ -17,3 +31,5 @@ _Picturing Quantum Processes_ B. Coecke, A. Kissinger
 ## Mathematical Machinery
 
 _Graph Theory and its Applications_ Gross, Yellen, Anderson
+
+![Yellow Jack Quarantine Flag](https://en.wikipedia.org/wiki/File:ICS_Lima.svg)
