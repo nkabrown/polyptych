@@ -18,10 +18,25 @@ In _Picturing Quantum Processes_ the authors place their work as an attempt to u
 
 ```
 
+Goal: Build mathematical machinery and think about concepts
+
 ## Symbols and States
 
 _Mathematical Logic_ G. Tourlakis
 
+How is the relationship of logical languages to proving similar to the relationship of programming languages to programming?
+
+Well, logical languages and programming languages are both artifical languages.
+
+"As far as reading or writing a formalized text is concerned, it matters little whether this or that meaning is attached to the words, or signs in the text, or indeed whether any meaning at all is attached to them, the only important point is the correct observance of the rules of syntax." – _Elements of Mathematics: Theory of Sets_, Nicolas Bourbaki
+
+What is the alphabet of Boolean logic?
+
+What are the definitions of strings and substrings?
+
+What is the definition of formula-calculation?
+
+What are the procedural and recursive definitions of the set WFF?
 
 ## Pictures and Processes
 
