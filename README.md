@@ -7,14 +7,14 @@ In _Picturing Quantum Processes_ the authors place their work as an attempt to u
 ## Plan
 
 ```
-   symbols and states                        mathematical machinery                  pictures and processes
-   ------------------                        ----------------------                  ----------------------
+ symbols and states                    mathematical machinery            pictures and processes
+ ------------------                    ----------------------            ----------------------
 
-   _Mathematical Logic_ Tourlakis       _Graph Theory and its Applications_         _Picturing Quantum Processes_
+ Mathematical Logic, Tourlakis     Graph Theory and its Applications     Picturing Quantum Processes
 
-          ↓                                                                                      ↓
+        ↓                                                                           ↓
 
-   _Theory of Sets_ Bourbaki                                                        _New Structures for Physics_
+ Theory of Sets, Bourbaki                                                New Structures for Physics
 
 ```
 
