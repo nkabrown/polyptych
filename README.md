@@ -32,4 +32,4 @@ _Picturing Quantum Processes_ B. Coecke, A. Kissinger
 
 _Graph Theory and its Applications_ Gross, Yellen, Anderson
 
-![Yellow Jack Quarantine Flag](https://en.wikipedia.org/wiki/File:ICS_Lima.svg)
+![Yellow Jack Quarantine Flag](https://pbs.twimg.com/media/DkUciO0W0AAmkHM?format=jpg&name=240x240)
