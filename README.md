@@ -32,6 +32,8 @@ Well, logical languages and programming languages are both artifical languages.
 
 What is the alphabet of Boolean logic?
 
+What is the difference between variables and metavariables?
+
 What are the definitions of strings and substrings?
 
 What is the definition of formula-calculation?
@@ -42,10 +44,21 @@ What are the procedural and recursive definitions of the set WFF?
 
 _Picturing Quantum Processes_ B. Coecke, A. Kissinger
 
+The book uses a diagrammatic language to describe and reason about quantum theory. I'm quite interested in how I might use a diagrammatic language to describe and reason about programs and programming.
+
+"...in diagrammtic theories, it is natural to treat arbitary processes on equal footing with states. States are then treated just as a special kind of process, a 'preparation' process. In other words, there is a shift from focussing on 'what is' to 'what happens', which is clearly a lot more fun. This is very much in line with the concerns of computer science, where the majority of time and energy goes into reasoning about processes (i.e. programs), and states (i.e. data) only exist to be communicated by programs." p.11-12
+
+"We call a structure consisting of all the 'allowed processes' and how these interact a process theory." These process theories are defined as a category; a collection of types (objects), a collection of processes (morphisms), and a composition operation to join processes together. Process theories focus on composition, systems interacting with other systems, and have an interaction logic.
+
+Nice description of seeking an abstraction: "As the standard, Hilbert-space presentation of the theory comes as a packaged deal, it is therefore necessary to seek an alternative presentation that lets us tease out the important features from the incidental ones." Diagrams are the abstraction they will use to drop incidental features and focus on the important features.
 
 ## Mathematical Machinery
 
 _Graph Theory and its Applications_ Gross, Yellen, Anderson
+
+A Graph constructor should return a null graph and then the ADT of the Graph should provide a procedural way to build a graph.
+
+What is the difference between an adjacency table and an incidence table? Is there a mapping that will transform one into the other?
 
 ![Yellow Jack Quarantine Flag](https://pbs.twimg.com/media/DkUciO0W0AAmkHM?format=jpg&name=240x240)
 
