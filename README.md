@@ -60,6 +60,13 @@ A Graph constructor should return a null graph and then the ADT of the Graph sho
 
 What is the difference between an adjacency table and an incidence table? Is there a mapping that will transform one into the other?
 
+Areas of application that I might wish to explore:
+
+[Algorithmic Cheminformatics](https://cheminf.imada.sdu.dk/): Graph grammar chemistry where molecules are represented as graphs and chemical reactions as graph transformation rules.
+
+* [Intro article](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2016.0354)
+* [From Category Theory to Enzyme Design](https://cheminf.imada.sdu.dk/novo-synergy/)
+
 ![Yellow Jack Quarantine Flag](https://pbs.twimg.com/media/DkUciO0W0AAmkHM?format=jpg&name=240x240)
 
 ## Diary
