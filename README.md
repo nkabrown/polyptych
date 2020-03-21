@@ -67,6 +67,8 @@ Areas of application that I might wish to explore:
 * [Intro article](https://royalsocietypublishing.org/doi/pdf/10.1098/rsta.2016.0354)
 * [From Category Theory to Enzyme Design](https://cheminf.imada.sdu.dk/novo-synergy/)
 
+Influenza map from CDC or state data that returns closed neighborhoods of counties that are on an upswing.
+
 ![Yellow Jack Quarantine Flag](https://pbs.twimg.com/media/DkUciO0W0AAmkHM?format=jpg&name=240x240)
 
 ## Diary
