@@ -46,7 +46,7 @@ _Picturing Quantum Processes_ B. Coecke, A. Kissinger
 
 The book uses a diagrammatic language to describe and reason about quantum theory. I'm quite interested in how I might use a diagrammatic language to describe and reason about programs and programming.
 
-"...in diagrammtic theories, it is natural to treat arbitary processes on equal footing with states. States are then treated just as a special kind of process, a 'preparation' process. In other words, there is a shift from focussing on 'what is' to 'what happens', which is clearly a lot more fun. This is very much in line with the concerns of computer science, where the majority of time and energy goes into reasoning about processes (i.e. programs), and states (i.e. data) only exist to be communicated by programs." p.11-12
+"...in diagrammatic theories, it is natural to treat arbitary processes on equal footing with states. States are then treated just as a special kind of process, a 'preparation' process. In other words, there is a shift from focussing on 'what is' to 'what happens', which is clearly a lot more fun. This is very much in line with the concerns of computer science, where the majority of time and energy goes into reasoning about processes (i.e. programs), and states (i.e. data) only exist to be communicated by programs." p.11-12
 
 "We call a structure consisting of all the 'allowed processes' and how these interact a process theory." These process theories are defined as a category; a collection of types (objects), a collection of processes (morphisms), and a composition operation to join processes together. Process theories focus on composition, systems interacting with other systems, and have an interaction logic.
 
@@ -59,6 +59,8 @@ _Graph Theory and its Applications_ Gross, Yellen, Anderson
 A Graph constructor should return a null graph and then the ADT of the Graph should provide a procedural way to build a graph.
 
 What is the difference between an adjacency table and an incidence table? Is there a mapping that will transform one into the other?
+
+Description of graph and its relation to logic from [Graph Structure and Monadic Second-Order Logic, a Language Theoretic Approach](https://hal.archives-ouvertes.fr/hal-00646514/document) "A graph can be considered as a _logical structure_ (also called _relational structure_) whose _domain_ (also called its _universe_) consists of the vertices, and that is equipped with a binary relation that represents adjacency." p. 5
 
 Areas of application that I might wish to explore:
 
