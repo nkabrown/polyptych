@@ -40,6 +40,8 @@ What is the definition of formula-calculation?
 
 What are the procedural and recursive definitions of the set WFF?
 
+Write two parsing programs; a formula-constructor (build step-by-step) and a formula-deconstructor (recursively break down).
+
 ## Pictures and Processes
 
 _Picturing Quantum Processes_ B. Coecke, A. Kissinger
@@ -61,6 +63,14 @@ A Graph constructor should return a null graph and then the ADT of the Graph sho
 What is the difference between an adjacency table and an incidence table? Is there a mapping that will transform one into the other?
 
 Description of graph and its relation to logic from [Graph Structure and Monadic Second-Order Logic, a Language Theoretic Approach](https://hal.archives-ouvertes.fr/hal-00646514/document) "A graph can be considered as a _logical structure_ (also called _relational structure_) whose _domain_ (also called its _universe_) consists of the vertices, and that is equipped with a binary relation that represents adjacency." p. 5
+
+- [ ] Read tutorial section on Python classes
+- [ ] Create a Graph class with builder methods
+- [ ] Create separate classes to utilize two different edge representations:
+     - [ ] strings
+     - [ ] tuples
+- [ ] Write tests based on graph properties
+- [ ] Return adjacency table as an actual table
 
 Areas of application that I might wish to explore:
 
