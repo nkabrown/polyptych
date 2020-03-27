@@ -61,9 +61,11 @@ A process theory consists of:
 
 (i) A collection T of system-types represented by wires,
 
-(ii) A collection P of processes represented by boxes, where for each process in P the input types and output types are taken from T, and
+(ii) A collection P of processes represented by boxes, where for each process in P
+     the input types and output types are taken from T, and
 
-(iii) a means of 'wiring processes together', that is, an opertation that interprets a diagram of processes in P as a process in P.
+(iii) a means of 'wiring processes together', that is, an opertation that interprets
+      a diagram of processes in P as a process in P.
 
 In particular, (iii) guarantees that process theories are 'closed under wiring processes together'.
 ```
@@ -73,23 +75,29 @@ Compare this to the definition of a category.
 ```
 A category C consists of:
 
-• A collection C₀, whose elements are called the objects of C and are usually denoted by uppercase letter X, Y, Z,...
+• A collection C₀, whose elements are called the objects of C and are usually denoted by
+  uppercase letter X, Y, Z,...
 
-• A collection C₁, whose elements are called the morphisms or arrows of C and are usually denoted by lowercase letters f, g, h,...
+• A collection C₁, whose elements are called the morphisms or arrows of C and are usually
+  denoted by lowercase letters f, g, h,...
 
 such that
 
-• Each morphism has assigned two objects, called source and target, or domain and codomain. We denote the source and target of the morphism f by s(f) and t(f), respectively.
+• Each morphism has assigned two objects, called source and target, or domain and codomain.
+  We denote the source and target of the morphism f by s(f) and t(f), respectively.
 
 • Each object X has a distinguished morphism id(x) : X →  X, called the identity morphism.
 
-• For each pair of morphisms f, g such that the t(f) = s(g) there exists a specifed morphism f ° g, called the composite morphism, such that s(g ° f) = s(f) and t(g ° f) = t(g).
+• For each pair of morphisms f, g such that the t(f) = s(g) there exists a specifed morphism
+  f ° g, called the composite morphism, such that s(g ° f) = s(f) and t(g ° f) = t(g).
 
 These structures need to satisfy the following axioms.
 
-• Unitality: for every morphism f : X →  Y, the compositions f ° id(x) and id(y) ° f are both equal to f.
+• Unitality: for every morphism f : X →  Y, the compositions f ° id(x) and id(y) ° f are both
+  equal to f.
 
-• Associativity: for f : X →  Y, g : Y →  Z and h : Z →  W, the compositions h ° (g ° f) and (h ° g) ° f are equal.
+• Associativity: for f : X →  Y, g : Y →  Z and h : Z →  W, the compositions h ° (g ° f) and
+  (h ° g) ° f are equal.
 ```
 
 ## Mathematical Machinery
