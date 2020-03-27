@@ -88,3 +88,9 @@ Influenza map from CDC or state data that returns closed neighborhoods of counti
 Sickness is the law of the living.
 
 Calling it the "Chinese Virus" hides the fact of our common humanity. "...the vision of the [stricken's suffering] could certainly still say a great deal to those who know how to look at it and do not recoil before what it shows of our common humanity."
+
+How does internationalist solidarity compare to this biblical notion of common humanity?
+
+"This may be an extinction event for small businesses and franchises." – Mike Davis
+
+Note parallels between "flow" and one of the principles from Daniel Willingham's book _Why Don't Students Like School?_ that “People are naturally curious, but we are not naturally good thinkers; unless the cognitive conditions are right, we will avoid thinking.” I paraphrase the point of this principle as "Setting yourself up for success is important because you will only continue if your cognitve work is successful." While "flow [which occurs] when a person's skills are fully involved in overcoming a challenge that is just about manageable."
