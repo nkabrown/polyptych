@@ -140,3 +140,7 @@ How does internationalist solidarity compare to this biblical notion of common h
 "This may be an extinction event for small businesses and franchises." – Mike Davis
 
 Note parallels between "flow" and one of the principles from Daniel Willingham's book _Why Don't Students Like School?_ that “People are naturally curious, but we are not naturally good thinkers; unless the cognitive conditions are right, we will avoid thinking.” I paraphrase the point of this principle as "Setting yourself up for success is important because you will only continue if your cognitve work is successful." While "flow [which occurs] when a person's skills are fully involved in overcoming a challenge that is just about manageable."
+
+Very nice collection of Lenten meditations in this time of COVID [Emily's Days](https://savedbydesign.wordpress.com/category/emilys-days/)
+
+"Deafness to everyone but yourself is the coronavirus of humanity."
