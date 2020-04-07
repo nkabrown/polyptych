@@ -22,6 +22,7 @@ to settle down to some fixed numbers p₁,p₂,...,ps (which according to our in
 should be 1/s).
 """
 import random
+from itertools import chain, combinations
 
 def trial(n, s):
     """Number of experiments to run of selecting one number from a squence."""
@@ -38,6 +39,7 @@ def trial(n, s):
         draws = count(n, num, trial_list)
         counts_list.append((num, draws))
     print(f'Counts of number of draws for each number {counts_list}')
+    probability_space(s)
     # calculate relative frequencies
 
 def count(n, k, l):
@@ -45,6 +47,28 @@ def count(n, k, l):
     # slice of results from 0 to n
     result_list = l[0:n] 
     return result_list.count(k)
+
+def probability_space(s):
+    """Generate a probability space for finite set of s points (Ω, Α, Ρ)."""
+    Ω = range(1, s + 1)
+    print(list(Ω))
+    Α = powerset(Ω)
+    print(Α)
+    Ρ = probability_measure
+    measure = Ρ(Α[7], s)
+    print(measure)
+
+def powerset(iterable):
+    """Return the list of all subsets as a list of tuples of an iterable."""
+    S = list(iterable)
+    # combinations: r-length tuples, in sorted order, no repeated elements
+    return list(chain.from_iterable(combinations(S, r) for r in range(len(S) + 1)))
+
+def probability_measure(A, s):
+    """Probability measure on a σ-field of subsets Α of a set Ω."""
+    # size of subset of events / size of set of all events
+    probability = len(A) / s
+    return probability
 
 if __name__ == "__main__":
     trial(20, 3)
