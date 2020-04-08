@@ -65,7 +65,7 @@ def powerset(iterable):
     return list(chain.from_iterable(combinations(S, r) for r in range(len(S) + 1)))
 
 def probability_measure(A, s):
-    """Probability measure on a σ-field of subsets Α of a set Ω."""
+    """Probability measure on a field of subsets Α of a set Ω."""
     # size of subset of events / size of set of all events
     probability = len(A) / s
     return probability
