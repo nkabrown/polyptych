@@ -100,6 +100,10 @@ These structures need to satisfy the following axioms.
   (h ° g) ° f are equal.
 ```
 
+One interesting aspect to note is that the visual representations of categories and process theories are reversed. Traditionally categories are represented as graphs with the object of the categories the vertexes and the morphisms of the categories as edges. In process theories the objects of the category are lines/wires and the morphisms of the category are boxes. In category theory the morphisms connect the objects of the category and in process theories the input/output types connect the processes/morphisms.
+
+One advantage is that the process box can function as a tool of abstraction. The box can be opened to show further implementation details (more wires and processes) or the box can be part of the implementation of a larger process box and could be hidden away.
+
 ## Mathematical Machinery
 
 _Graph Theory and its Applications_ Gross, Yellen, Anderson
